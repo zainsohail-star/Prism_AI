@@ -1,7 +1,9 @@
 # PRISM AI — Precise Retrieval & Intelligent Search Machine
 
 A three-lens question-answering system built with LangChain, LangGraph, FastAPI, and Groq.
-
+This project is created  during the Python and AI Bootcamp by iCodeGuru and Digitech Transformation.
+Zain Sohail
+linkedin.com/in/zainsohail21 
 Like a real prism splits one beam of light into a spectrum, PRISM AI splits one question into three lenses — your document, your document plus AI knowledge, or the live web — so you always get an answer from the angle that fits.
 
 ## Project Structure
